@@ -1,7 +1,7 @@
 # WhatsAppLink
 
 Este projeto foi gerado com [Angular] versão 11.0.5.
-<img scr="./src/assets/imgs/prototipo.png">
+<img src="./src/assets/imgs/prototipo.png">
 
 ## Servidor de desenvolvimento
 
