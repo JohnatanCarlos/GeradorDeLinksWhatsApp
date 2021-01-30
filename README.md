@@ -1,27 +1,21 @@
 # WhatsAppLink
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+Este projeto foi gerado com [Angular] versão 11.0.5.
+<img scr="./src/assets/imgs/prototipo.png">
 
-## Development server
+## Servidor de desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Execute `npm start` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será carregado automaticamente.
 
-## Code scaffolding
+## Como funciona
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Insira o nº do WhatsApp Ex: 81 9 99999-9999
+2. Escreva a mensagem padrão que será exibida
+3. Clique em “GERAR LINK ”
+4. Copie o link e compartilhe
+5. Antes de usar, faça o teste
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Vantagem
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+O gerador de links para o WhatsApp é uma ótima ferramenta para ações de marketing ou relacionamento. Com o link para mensagens personalizadas do WhatsApp, você poderá utilizar em campanhas, redes sociais, email marketing, banners e etc. O bom de encurtar e personalizar links e mensagens do WhatsApp é que funcionará no desktop e no mobile da mesma forma.
